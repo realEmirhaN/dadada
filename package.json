@@ -2,7 +2,7 @@
   "name": "maniacbot",
   "version": "0.1",
   "description": "Türk discord botu",
-  "main": "bot.js",
+  "main": "maniacbot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
