@@ -24,24 +24,24 @@ Soon to come...
 `m!yardım <command> | -a ve --all`: Kullanabileceğiniz komutların listesini veya belirli komutlar hakkında ayrıntıları verir.
 `m!bot`: Bot hakkında bilgi verir.  
 `m!ping`: Botun Pingini Gösterir. 
-`m!roll <amount>d<sides>+<modifier>`: roll
+`m!roll <amount>d<sides>+<modifier>`: roll.
 `m!8ball`: Bir servet için sihirli bir 8 top ister.
 `m!kaydet <key> <message>`: Belirli bir anahtar ile kişiselleştirilmiş bir mesaj kaydeder.
 `m!kaydedilenler <key>`: Kayıtlı mesajlarınızı listeler veya verilen bir tuşla kaydedilmiş bir mesajı çağırır.
-`m!sil <key>`: Kayıtlı tuşu siler
-`m!yönlendir`: Özel bir hakaret göndermek için botu ses kanalınıza yönlendirin
-`m!linkekle <link>`: YouTube linki ekle 
-`m!yt <query>`: YouTube dan kuyruğa müzik ekle  
-`m!play`: Mevcut şarkıyı devam ettirir  
-`m!pause`: Mevcut şarkıyı durdur 
-`m!önceki <amount>`: Belirli bir şarkı miktarıyla sıraya geri atlar 
-`m!ileri <amount>`: Skips ahead in the queue by a certain amount of songs  
-`m!atla <index>`: Sıradaki dizine göre belirli bir şarkıya atlar
+`m!sil <key>`: Kayıtlı tuşu siler.
+`m!yönlendir`: Özel bir hakaret göndermek için botu ses kanalınıza yönlendirin.
+`m!linkekle <link>`: YouTube linki ekle .
+`m!yt <query>`: YouTube dan kuyruğa müzik ekle  .
+`m!play`: Mevcut şarkıyı devam ettirir  .
+`m!pause`: Mevcut şarkıyı durdur .
+`m!önceki <amount>`: Belirli bir şarkı miktarıyla sıraya geri atlar .
+`m!ileri <amount>`: Belirli miktarda şarkı ile sıraya girer  .
+`m!atla <index>`: Sıradaki dizine göre belirli bir şarkıya atlar.
 `m!rastgele`: Kuyruktaki şarkıları rastgele seçer.  
-`m!sil <index>`: Sıradaki şarkı kuyruğunu veya belirli bir şarkıyı temizler  
-`m!kuyruk`: Şarkının kuyruğunu karıştırır  
-`m!otodeğiş`: Şarkı sırasının şarkılarını otomatik olarak değiştirir  
-`m!şarkı`: Şu anda çalınan şarkı hakkında bilgi verir  
+`m!sil <index>`: Sıradaki şarkı kuyruğunu veya belirli bir şarkıyı temizler  .
+`m!kuyruk`: Şarkının kuyruğunu karıştırır  .
+`m!otodeğiş`: Şarkı sırasının şarkılarını otomatik olarak değiştirir  .
+`m!şarkı`: Şu anda çalınan şarkı hakkında bilgi verir  .
 `m!müzik`: Su anda kuyrukta bulunan sarkilarin bir listesini verir. 
 ### Example Command
 A command in the commands object consists of three parts: usage, description, and its process.
